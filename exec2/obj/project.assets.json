@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\abrah\\OneDrive\\Área de Trabalho\\C#\\Logic-CHash\\exec1\\exec1.csproj",
-      "projectName": "exec1",
-      "projectPath": "c:\\Users\\abrah\\OneDrive\\Área de Trabalho\\C#\\Logic-CHash\\exec1\\exec1.csproj",
+      "projectUniqueName": "C:\\Users\\abrah\\OneDrive\\Área de Trabalho\\C#\\Logic-CHash\\exec2\\exec2.csproj",
+      "projectName": "exec2",
+      "projectPath": "C:\\Users\\abrah\\OneDrive\\Área de Trabalho\\C#\\Logic-CHash\\exec2\\exec2.csproj",
       "packagesPath": "C:\\Users\\abrah\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\abrah\\OneDrive\\Área de Trabalho\\C#\\Logic-CHash\\exec1\\obj\\",
+      "outputPath": "C:\\Users\\abrah\\OneDrive\\Área de Trabalho\\C#\\Logic-CHash\\exec2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abrah\\AppData\\Roaming\\NuGet\\NuGet.Config"
