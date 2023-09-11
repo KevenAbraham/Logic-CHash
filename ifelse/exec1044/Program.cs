@@ -11,8 +11,6 @@
             int a = int.Parse(vet[0]);
             int b = int.Parse(vet[1]);
 
-            int multiplo;
-
             if (b % a == 0) {
                 Console.WriteLine("São múltiplos.");
             } else {
