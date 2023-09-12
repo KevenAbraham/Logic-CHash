@@ -40,7 +40,7 @@ namespace exec1040 {
                     Console.WriteLine($"O(a) Aluno(a) foi REPROVADO(A) com {media:F1} de média.");
                 }
             } else {
-                Console.WriteLine($"O(a) Aluno(a) foi REPROVADO(A) com {media:F1} de média");
+                Console.WriteLine($"O(a) Aluno(a) foi REPROVAdO(A) com {media:F1} de média");
             }
         }
     }
