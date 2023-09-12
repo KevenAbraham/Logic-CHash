@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1046\\exec1046.csproj",
+      "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1046\\exec1046.csproj",
       "projectName": "exec1046",
-      "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1046\\exec1046.csproj",
+      "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1046\\exec1046.csproj",
       "packagesPath": "C:\\Users\\97523\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1046\\obj\\",
+      "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1046\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\97523\\AppData\\Roaming\\NuGet\\NuGet.Config"
