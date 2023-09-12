@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1045\\exec1045.csproj": {}
+    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1045\\exec1045.csproj": {}
   },
   "projects": {
-    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1045\\exec1045.csproj": {
+    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1045\\exec1045.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1045\\exec1045.csproj",
+        "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1045\\exec1045.csproj",
         "projectName": "exec1045",
-        "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1045\\exec1045.csproj",
+        "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1045\\exec1045.csproj",
         "packagesPath": "C:\\Users\\97523\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\ifelse\\exec1045\\obj\\",
+        "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1045\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97523\\AppData\\Roaming\\NuGet\\NuGet.Config"
