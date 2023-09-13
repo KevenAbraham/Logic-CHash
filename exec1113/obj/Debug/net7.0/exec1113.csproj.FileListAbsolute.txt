@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\bin\Debug\net7.0\exec1113.exe
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\bin\Debug\net7.0\exec1113.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\bin\Debug\net7.0\exec1113.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\bin\Debug\net7.0\exec1113.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\bin\Debug\net7.0\exec1113.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\refint\exec1113.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\exec1113.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1113\obj\Debug\net7.0\ref\exec1113.dll
