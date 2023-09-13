@@ -9,12 +9,12 @@
             int password = int.Parse(Console.ReadLine());
 
             while (password != 2002) {
-                Console.WriteLine("Senha Inválida!");
+                Console.WriteLine("Senha Invalida");
                 Console.WriteLine("\nInforme a sua senha:");
                 password = int.Parse(Console.ReadLine());
             } 
 
-            Console.WriteLine("Acesso permitido!");
+            Console.WriteLine("Acesso permitido");
         }
     }
 }
