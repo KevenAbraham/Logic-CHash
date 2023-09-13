@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1113\\exec1113.csproj": {}
+    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1114\\exec1114.csproj": {}
   },
   "projects": {
-    "c:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1113\\exec1113.csproj": {
+    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1114\\exec1114.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1113\\exec1113.csproj",
-        "projectName": "exec1113",
-        "projectPath": "c:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1113\\exec1113.csproj",
+        "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1114\\exec1114.csproj",
+        "projectName": "exec1114",
+        "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1114\\exec1114.csproj",
         "packagesPath": "C:\\Users\\97523\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1113\\obj\\",
+        "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\exec1114\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97523\\AppData\\Roaming\\NuGet\\NuGet.Config"
