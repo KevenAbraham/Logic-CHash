@@ -20,6 +20,8 @@
                 double tax =  money - (money + (money * (28/100)));
                 Console.WriteLine($"Taxa de R${money:F2}");         
             }
+
+            
         }
     }
 }
