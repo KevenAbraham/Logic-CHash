@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\bin\Debug\net7.0\exec1117.exe
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\bin\Debug\net7.0\exec1117.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\bin\Debug\net7.0\exec1117.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\bin\Debug\net7.0\exec1117.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\bin\Debug\net7.0\exec1117.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\refint\exec1117.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\exec1117.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1117\obj\Debug\net7.0\ref\exec1117.dll
