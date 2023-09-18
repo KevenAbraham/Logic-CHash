@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\bin\Debug\net7.0\ExemploFacaEnquanto.exe
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\bin\Debug\net7.0\ExemploFacaEnquanto.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\bin\Debug\net7.0\ExemploFacaEnquanto.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\bin\Debug\net7.0\ExemploFacaEnquanto.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\bin\Debug\net7.0\ExemploFacaEnquanto.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\refint\ExemploFacaEnquanto.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ExemploFacaEnquanto.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFacaEnquanto\obj\Debug\net7.0\ref\ExemploFacaEnquanto.dll
