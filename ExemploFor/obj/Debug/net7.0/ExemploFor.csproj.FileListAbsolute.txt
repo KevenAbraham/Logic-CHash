@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\bin\Debug\net7.0\ExemploFor.exe
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\bin\Debug\net7.0\ExemploFor.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\bin\Debug\net7.0\ExemploFor.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\bin\Debug\net7.0\ExemploFor.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\bin\Debug\net7.0\ExemploFor.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\refint\ExemploFor.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ExemploFor.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploFor\obj\Debug\net7.0\ref\ExemploFor.dll
