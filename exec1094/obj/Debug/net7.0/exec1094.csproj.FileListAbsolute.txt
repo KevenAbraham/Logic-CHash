@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\bin\Debug\net7.0\exec1094.exe
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\bin\Debug\net7.0\exec1094.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\bin\Debug\net7.0\exec1094.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\bin\Debug\net7.0\exec1094.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\bin\Debug\net7.0\exec1094.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\refint\exec1094.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\exec1094.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1094\obj\Debug\net7.0\ref\exec1094.dll
