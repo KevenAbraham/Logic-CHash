@@ -18,7 +18,7 @@
             }
 
             Console.WriteLine($"Maior = {maior}");
-            Console.WriteLine($"Posição = {posicao}");
+            Console.WriteLine($"Posição = {posicao}"); 
         }
     }
 }
