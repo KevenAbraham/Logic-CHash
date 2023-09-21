@@ -42,7 +42,6 @@
             Console.WriteLine($"Valor total de venda: R${totalSell:F2}");
             Console.WriteLine($"Lucro total: R${(totalSell - totalBuy):F2}");
 
-
         }
     }
 }
