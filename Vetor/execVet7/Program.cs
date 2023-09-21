@@ -22,7 +22,6 @@ namespace execVet7 {
 
             for (int i = 0; i < n; i++) {
                 if (idade[i] > maiorIdade) {
-                    maiorIdade = idade[i];
                     nomeMaiorIdade = nome[i];
                 }
             }
