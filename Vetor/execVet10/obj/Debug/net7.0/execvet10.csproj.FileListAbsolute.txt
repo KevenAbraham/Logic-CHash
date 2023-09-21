@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\bin\Debug\net7.0\execvet10.exe
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\bin\Debug\net7.0\execvet10.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\bin\Debug\net7.0\execvet10.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\bin\Debug\net7.0\execvet10.dll
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\bin\Debug\net7.0\execvet10.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.dll
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\refint\execvet10.dll
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\execvet10.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execvet10\obj\Debug\net7.0\ref\execvet10.dll
