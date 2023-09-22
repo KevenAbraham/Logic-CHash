@@ -2,7 +2,7 @@
     class Program {
         static void Main(string[] args) {
             int M, N;
-            int [,] A;
+            int[,] A;
 
             M = int.Parse(Console.ReadLine());
             N = int.Parse(Console.ReadLine()); 
