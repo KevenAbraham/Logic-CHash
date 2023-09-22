@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\bin\Debug\net7.0\execmat4.exe
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\bin\Debug\net7.0\execmat4.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\bin\Debug\net7.0\execmat4.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\bin\Debug\net7.0\execmat4.dll
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\bin\Debug\net7.0\execmat4.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.dll
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\refint\execmat4.dll
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\execmat4.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat4\obj\Debug\net7.0\ref\execmat4.dll
