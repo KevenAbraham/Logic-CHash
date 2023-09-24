@@ -1,0 +1,14 @@
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\bin\Debug\net7.0\exec8.exe
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\bin\Debug\net7.0\exec8.deps.json
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\bin\Debug\net7.0\exec8.runtimeconfig.json
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\bin\Debug\net7.0\exec8.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\bin\Debug\net7.0\exec8.pdb
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.AssemblyInfoInputs.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.AssemblyInfo.cs
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\refint\exec8.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.pdb
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\exec8.genruntimeconfig.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\Logic-CHash\exec8\obj\Debug\net7.0\ref\exec8.dll

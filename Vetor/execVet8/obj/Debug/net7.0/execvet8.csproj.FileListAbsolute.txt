@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\bin\Debug\net7.0\execvet8.exe
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\bin\Debug\net7.0\execvet8.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\bin\Debug\net7.0\execvet8.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\bin\Debug\net7.0\execvet8.dll
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\bin\Debug\net7.0\execvet8.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.dll
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\refint\execvet8.dll
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\execvet8.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\Vetor\execvet8\obj\Debug\net7.0\ref\execvet8.dll

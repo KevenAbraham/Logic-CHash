@@ -1,0 +1,28 @@
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\bin\Debug\net7.0\execmat5.exe
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\bin\Debug\net7.0\execmat5.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\bin\Debug\net7.0\execmat5.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\bin\Debug\net7.0\execmat5.dll
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\bin\Debug\net7.0\execmat5.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.dll
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\refint\execmat5.dll
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\execmat5.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\matriz\execmat5\obj\Debug\net7.0\ref\execmat5.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.AssemblyInfoInputs.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.AssemblyInfo.cs
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\refint\execmat5.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.pdb
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\bin\Debug\net7.0\execmat5.exe
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\bin\Debug\net7.0\execmat5.deps.json
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\bin\Debug\net7.0\execmat5.runtimeconfig.json
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\bin\Debug\net7.0\execmat5.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\bin\Debug\net7.0\execmat5.pdb
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\execmat5.genruntimeconfig.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat5\obj\Debug\net7.0\ref\execmat5.dll

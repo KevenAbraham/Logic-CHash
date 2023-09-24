@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\bin\Debug\net7.0\exec1118.exe
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\bin\Debug\net7.0\exec1118.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\bin\Debug\net7.0\exec1118.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\bin\Debug\net7.0\exec1118.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\bin\Debug\net7.0\exec1118.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\refint\exec1118.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\exec1118.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1118\obj\Debug\net7.0\ref\exec1118.dll

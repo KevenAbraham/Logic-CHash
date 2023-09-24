@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\bin\Debug\net7.0\exemplomatriz.exe
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\bin\Debug\net7.0\exemplomatriz.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\bin\Debug\net7.0\exemplomatriz.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\bin\Debug\net7.0\exemplomatriz.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\bin\Debug\net7.0\exemplomatriz.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\refint\exemplomatriz.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\exemplomatriz.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exemplomatriz\obj\Debug\net7.0\ref\exemplomatriz.dll

@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\bin\Debug\net7.0\exec1115.exe
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\bin\Debug\net7.0\exec1115.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\bin\Debug\net7.0\exec1115.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\bin\Debug\net7.0\exec1115.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\bin\Debug\net7.0\exec1115.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\refint\exec1115.dll
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\exec1115.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\exec1115\obj\Debug\net7.0\ref\exec1115.dll
