@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\bin\Debug\net7.0\exec1038.exe
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\bin\Debug\net7.0\exec1038.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\bin\Debug\net7.0\exec1038.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\bin\Debug\net7.0\exec1038.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\bin\Debug\net7.0\exec1038.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\refint\exec1038.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\exec1038.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1038\obj\Debug\net7.0\ref\exec1038.dll

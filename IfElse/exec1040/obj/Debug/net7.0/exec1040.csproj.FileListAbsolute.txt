@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\bin\Debug\net7.0\exec1040.exe
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\bin\Debug\net7.0\exec1040.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\bin\Debug\net7.0\exec1040.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\bin\Debug\net7.0\exec1040.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\bin\Debug\net7.0\exec1040.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\refint\exec1040.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\exec1040.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ifelse\exec1040\obj\Debug\net7.0\ref\exec1040.dll

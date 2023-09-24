@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\bin\Debug\net7.0\execVet1.exe
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\bin\Debug\net7.0\execVet1.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\bin\Debug\net7.0\execVet1.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\bin\Debug\net7.0\execVet1.dll
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\bin\Debug\net7.0\execVet1.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.dll
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\refint\execVet1.dll
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\execVet1.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\vetor\execVet1\obj\Debug\net7.0\ref\execVet1.dll

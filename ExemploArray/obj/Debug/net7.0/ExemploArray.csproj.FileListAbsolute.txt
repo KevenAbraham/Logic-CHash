@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\bin\Debug\net7.0\ExemploArray.exe
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\bin\Debug\net7.0\ExemploArray.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\bin\Debug\net7.0\ExemploArray.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\bin\Debug\net7.0\ExemploArray.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\bin\Debug\net7.0\ExemploArray.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\refint\ExemploArray.dll
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ExemploArray.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\ExemploArray\obj\Debug\net7.0\ref\ExemploArray.dll
