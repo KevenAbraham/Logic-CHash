@@ -1,4 +1,4 @@
-﻿namespace ManipulacaoMatriz {
+﻿namespace execMat6 {
     class Progrm {
         static void Main(string[] args) {
             int N;
