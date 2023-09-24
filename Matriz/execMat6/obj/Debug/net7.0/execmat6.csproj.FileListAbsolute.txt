@@ -1,0 +1,14 @@
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\bin\Debug\net7.0\execmat6.exe
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\bin\Debug\net7.0\execmat6.deps.json
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\bin\Debug\net7.0\execmat6.runtimeconfig.json
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\bin\Debug\net7.0\execmat6.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\bin\Debug\net7.0\execmat6.pdb
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.AssemblyInfoInputs.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.AssemblyInfo.cs
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\refint\execmat6.dll
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.pdb
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\execmat6.genruntimeconfig.cache
+C:\Users\abrah\OneDrive\Área de Trabalho\C#\matriz\execmat6\obj\Debug\net7.0\ref\execmat6.dll
