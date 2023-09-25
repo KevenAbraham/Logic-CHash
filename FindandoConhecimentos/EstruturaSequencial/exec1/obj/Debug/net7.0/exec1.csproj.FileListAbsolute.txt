@@ -1,0 +1,14 @@
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.AssemblyInfoInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.AssemblyInfo.cs
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.csproj.CoreCompileInputs.cache
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\bin\Debug\net7.0\exec1.exe
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\bin\Debug\net7.0\exec1.deps.json
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\bin\Debug\net7.0\exec1.runtimeconfig.json
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\bin\Debug\net7.0\exec1.dll
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\bin\Debug\net7.0\exec1.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.dll
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\refint\exec1.dll
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.pdb
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\exec1.genruntimeconfig.cache
+C:\Users\97523\Desktop\.NET\Exercicio\findandoconhecimentos\estruturasequencial\exec1\obj\Debug\net7.0\ref\exec1.dll
