@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\estruturarepetitiva\\exec2\\exec2.csproj": {}
+    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\EstruturaRepetitiva\\exec2\\exec2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\estruturarepetitiva\\exec2\\exec2.csproj": {
+    "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\EstruturaRepetitiva\\exec2\\exec2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\estruturarepetitiva\\exec2\\exec2.csproj",
+        "projectUniqueName": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\EstruturaRepetitiva\\exec2\\exec2.csproj",
         "projectName": "exec2",
-        "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\estruturarepetitiva\\exec2\\exec2.csproj",
+        "projectPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\EstruturaRepetitiva\\exec2\\exec2.csproj",
         "packagesPath": "C:\\Users\\97523\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\estruturarepetitiva\\exec2\\obj\\",
+        "outputPath": "C:\\Users\\97523\\Desktop\\.NET\\Exercicio\\findandoconhecimentos\\EstruturaRepetitiva\\exec2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\97523\\AppData\\Roaming\\NuGet\\NuGet.Config"
